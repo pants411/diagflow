@@ -5,7 +5,7 @@ cffi==1.11.5
 chardet==3.0.4
 cryptography==2.3.1
 flask-restplus==0.12.1
-flask==1.0.2
+flask==2.3.2
 gunicorn==19.9.0
 idna==2.7
 lz4==2.1.6
