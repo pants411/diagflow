@@ -3,7 +3,7 @@ aniso8601==3.0.2
 asn1crypto==0.24.0
 cffi==1.11.5
 chardet==3.0.4
-cryptography==2.3.1
+cryptography==41.0.2
 flask-restplus==0.12.1
 flask==1.0.2
 gunicorn==19.9.0
